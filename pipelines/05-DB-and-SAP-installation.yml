@@ -30,6 +30,7 @@ parameters:
       - S42022SPS00_v0004ms (dynamic)
       - S42021ISS00_v0001ms
       - S42021ISS00_v0002ms
+      - S42021ISS00_v0003ms
       - S42020ISS00_v0003ms
       - S41909ISS00_v0011ms      
       - S41909ISS00_v0012ms (dynamic)      
